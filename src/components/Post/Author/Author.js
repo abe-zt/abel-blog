@@ -1,4 +1,3 @@
-// @flow strict
 import React from 'react';
 import { getContactHref } from '../../../utils';
 import styles from './Author.module.scss';
@@ -17,7 +16,7 @@ const Author = () => {
           rel="noopener noreferrer"
           target="_blank"
         >
-          <strong>{author.name}</strong> on Twitter
+          <strong>{author.name}</strong>'s Twitter
         </a>
       </p>
     </div>

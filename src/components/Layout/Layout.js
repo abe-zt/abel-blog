@@ -1,4 +1,3 @@
-// @flow strict
 import React from 'react';
 import Helmet from 'react-helmet';
 import { withPrefix } from 'gatsby';
@@ -10,14 +9,11 @@ type Props = {
   children: ReactNode,
   title: string,
   description?: string,
-  socialImage? :string
+  socialImage?: string
 };
 
 const Layout = ({
-  children,
-  title,
-  description,
-  socialImage
+  children, title, description, socialImage
 }: Props) => {
   const { author, url } = useSiteMetadata();
   const metaImage = socialImage != null ? socialImage : author.photo;
@@ -40,5 +36,6 @@ const Layout = ({
     </div>
   );
 };
+
 
 export default Layout;
