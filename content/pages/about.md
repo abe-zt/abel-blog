@@ -1,13 +1,13 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/Cal_State_San_Marcos_library.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+This is the first post on my new blog - how exciting!
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+I am a California State University San Marcos graduate with a Bachelor’s degree in Computer Science. This site marks the beginning of my professional career - a journey which begins at <a href="https://planning.center">Planning Center</a>
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+In this space I will be sharing my experience as the Summer 2019 Front-End intern at Planning Center, along with my thoughts and reflections relating to the workspace. I look forward to working with (and learning from) the talented team at Planning Center.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+> ![Cal State San Marcos](./Cal_State_San_Marcos_library.jpg)

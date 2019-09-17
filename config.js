@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://www.abelzatarain.org',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'Blog by Abel Zatarain',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Blog',
       path: '/'
     },
     {
@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Abel Zatarain',
     photo: '/photo.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
