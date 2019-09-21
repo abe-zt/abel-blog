@@ -3,7 +3,7 @@ import React from 'react';
 // import moment from 'moment';
 // import { Link } from 'gatsby';
 // import type { Edges } from '../../types';
-// import styles from './Feed.module.scss';
+import styles from './Toggle.module.scss';
 
 // type Props = {
 //   edges: Edges
@@ -11,7 +11,7 @@ import React from 'react';
 
 const Toggle = () => (
   <div>
-    <div class="theme-switch-wrapper jc-fe p1">
+    <div class="theme-switch-wrapper jc-fs p1">
       <label class="theme-switch" for="checkbox">
         <input type="checkbox" id="checkbox" />
         <div class="slider round" />

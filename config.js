@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Blog by Abel Zatarain',
   subtitle:
-    'A San Diego native and CSUSM grad, making useful things in Calrsbad, CA',
+    'A San Diego native, working and making useful software in North County San Diego',
   copyright: '© All rights reserved.',
   // disqusShortname: '',
   postsPerPage: 3,
@@ -29,7 +29,7 @@ module.exports = {
     name: 'Abel Zatarain',
     photo: '/photo.jpg',
     bio:
-      'A San Diego native and CSUSM grad, making useful things in Calrsbad, CA',
+      'Making useful software in North County San Diego',
     contacts: {
       email: 'abezat@gmail.com',
       // facebook: '#',
