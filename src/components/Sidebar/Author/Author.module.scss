@@ -6,7 +6,8 @@
     display: inline-block;
     margin-bottom: 0;
     border-radius: 50%;
-    background-clip: padding-box
+    background-clip: padding-box;
+    border: 2px solid $color-gray-border;
   }
 
   &__title {
@@ -29,6 +30,7 @@
 
   &__subtitle {
     color: $color-gray;
+    width: 200px;
     @include line-height(1);
     @include margin-bottom(1)
   }

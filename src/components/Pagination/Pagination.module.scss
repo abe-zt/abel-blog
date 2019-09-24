@@ -4,6 +4,7 @@
 .pagination {
   @include margin-top(2);
   display: flex;
+  max-width: 300px;
 
   &__prev {
     width: 50%;
@@ -11,7 +12,7 @@
 
     &-link {
       color: $color-secondary;
-      font-size: 26px;
+      font-size: 24px;
       font-weight: bold;
 
       &:hover,
@@ -34,7 +35,7 @@
 
     &-link {
       color: $color-secondary;
-      font-size: 26px;
+      font-size: 24px;
       font-weight: bold;
 
       &:hover,

@@ -4,7 +4,7 @@ date: "2019-09-15T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "/posts/model-in-blender/"
-category: "3D modeling"
+category: "blender"
 tags:
   - "OPEN SOURCE"
   - "BLENDER"

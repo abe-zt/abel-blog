@@ -12,14 +12,15 @@
 }
 
 $color-bg: #fff; 
-$color-base: #222222;
+$color-base: #222;
 $color-primary: #5d93ff;
+//$color-primary: #9A97F3;
 $color-secondary: #f7a046;
 
 
 $color-white: #fff;
 $color-gray: lighten($color-base, 40%);
-$color-gray-border: lighten($color-base, 77%);
+$color-gray-border: lighten($color-base, 67%);
 $color-gray-bg: lighten($color-base, 79%);
 
 // Typographic
@@ -41,14 +42,14 @@ $typographic-leading: round(
 );
 
 // Buttons
-$button-height: 35px;
+$button-height: 40px;
 $button-border-radius: 20px;
 
 // Layout
-$layout-post-single-width: 945px;
-$layout-post-width: $layout-post-single-width - 305px;
+$layout-post-single-width: 1000px;
+$layout-post-width: $layout-post-single-width - 200px;
 
-$layout-width: 1070px;
+$layout-width: 1440px;
 $layout-breakpoint-sm: 685px;
 $layout-breakpoint-md: 960px;
 $layout-breakpoint-lg: 1100px;

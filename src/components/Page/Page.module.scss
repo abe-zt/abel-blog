@@ -2,7 +2,10 @@
 @import '../../assets/scss/mixins';
 
 .page {
-  @include margin-bottom(2);
+  //@include margin-bottom(2);
+  //display: flex;
+  //flex-direction: column;
+  //height: 94vh;
 
   &__inner {
     padding: 25px 20px;
@@ -38,10 +41,10 @@
 
 @include breakpoint-md {
   .page {
-    lost-column: 2/3;
+    lost-column: 3/4;
 
     &__inner {
-      padding: 40px 35px;
+      padding: 40px 64px;
     }
 
   }

@@ -3,6 +3,12 @@
 ////////////////////////////////////////////////////
 
 /*Simple css to style it like a toggle switch*/
+
+.switch-container {
+  display: flex;
+  height: 6vh;
+}
+
 .theme-switch-wrapper {
   display: flex;
   align-items: center;

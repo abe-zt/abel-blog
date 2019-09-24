@@ -16,7 +16,7 @@ const Author = () => {
           rel="noopener noreferrer"
           target="_blank"
         >
-          <strong>{author.name}</strong>'s Twitter
+          <strong>Abel's Twitter</strong>
         </a>
       </p>
     </div>
