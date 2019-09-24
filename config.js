@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Blog by Abel Zatarain',
   subtitle:
-    'Working and making useful software in North County San Diego',
+    'Abel makes useful software in North County San Diego',
   copyright: '© All rights reserved.',
   // disqusShortname: '',
   postsPerPage: 4,
@@ -29,7 +29,7 @@ module.exports = {
     name: 'Abel Zatarain',
     photo: '/photo.jpg',
     bio:
-      'Abel Zatarain works on making useful software in North County San Diego',
+      'Abel Zatarain makes useful software in North County San Diego',
     contacts: {
       email: 'abezat@gmail.com',
       // facebook: '#',
