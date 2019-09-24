@@ -5,10 +5,10 @@ module.exports = {
   pathPrefix: '/',
   title: 'Blog by Abel Zatarain',
   subtitle:
-    'Abel makes useful software in North County San Diego',
+    'Abel lives and works in North County San Diego making useful software.',
   copyright: '© All rights reserved.',
   // disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 100,
   // googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
@@ -17,7 +17,7 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About',
       path: '/pages/about'
     },
     {
@@ -29,7 +29,7 @@ module.exports = {
     name: 'Abel Zatarain',
     photo: '/photo.jpg',
     bio:
-      'Abel Zatarain makes useful software in North County San Diego',
+      'Abel lives and works in North County San Diego making useful software.',
     contacts: {
       email: 'abezat@gmail.com',
       // facebook: '#',
