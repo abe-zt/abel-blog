@@ -29,7 +29,7 @@ module.exports = {
     name: 'Abel Zatarain',
     photo: '/photo.jpg',
     bio:
-      'AbelZatarain works on making useful software in North County San Diego',
+      'Abel Zatarain works on making useful software in North County San Diego',
     contacts: {
       email: 'abezat@gmail.com',
       // facebook: '#',

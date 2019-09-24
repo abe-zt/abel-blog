@@ -65,8 +65,8 @@
     &__title {
       font-size: $typographic-base-font-size * 3;
       @include line-height(2.25);
-      @include margin-top(2.25);
-      @include margin-bottom(1.5)
+      @include margin-top(1);
+      @include margin-bottom(1)
     }
 
     &__body {
