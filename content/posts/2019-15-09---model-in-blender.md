@@ -1,15 +1,15 @@
 ---
-title: "3D Modeling"
+title: "3D Modeling with Blender"
 date: "2019-09-15T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "/posts/model-in-blender/"
-category: "blender"
+category: "3D MODELING"
 tags:
-  - "OPEN SOURCE"
+  - "OPEN-SOURCE"
   - "BLENDER"
   - "3D MODELING"
-description: "Creating a 3-D model of the company mascot."
+description: "Creating a 3D model of the company mascot with Blender, an open-source 3D graphics tool"
 socialImage: "/media/pico-front.png"
 ---
 

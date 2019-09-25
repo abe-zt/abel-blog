@@ -1,17 +1,17 @@
 ---
-title: "Basic animations using CSS"
-date: "2019-07-17T22:12:03.284Z"
+title: "Animating with CSS"
+date: "2019-06-28T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "/posts/css-animations/"
-category: "css"
+category: "CSS"
 tags:
   - "CSS"
   - "HTML"
   - "SVG"
   - "ANIMATIONS"
   - "KEYFRAMES"
-description: "Adding subtle animations to an existing SVG image using CSS."
+description: "Adding subtle animations to an existing SVG image using CSS"
 socialImage: ""
 ---
 
