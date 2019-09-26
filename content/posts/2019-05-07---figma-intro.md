@@ -13,9 +13,6 @@ description: "Getting started with Figma, a cloud-based design tool"
 socialImage: ""
 ---
 
-My first UX task at <a href="https://planning.center">Planning Center</a> was toredesign a few modals for the <a href="https://planning.center/registrations">Registrations</a> product. The challenge was not necessarily to produce a departure from the original, but to preserve the feel of the existing design.
-
-
 My first UX task at <a href="https://planning.center">Planning Center</a> was to redesign a few modals for the <a href="https://planning.center/registrations">Registrations</a> product. The challenge was not necessarily to produce a departure from the original but to preserve the feel of the existing design.
 
 The design tool of choice, in this case, was Figma. Figma sets itself apart from similar software, most notably Sketch, through its cloud-based features that facilitate collaboration. These collaborative tools came in handy when it was time to receive feedback on my designs, as adding/reviewing comments was easy and intuitive.  To get me started, <a href="https://twitter.com/shane_armitage">Shane Armitage</a>, Planning Center's Design Manager, was kind enough to give me a quick tutorial on Figma. I also worked through the tutorials on Figma's site - here's a link.
