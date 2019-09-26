@@ -1,6 +1,6 @@
 ---
 title: "3D Modeling with Blender"
-date: "2019-09-15T22:12:03.284Z"
+date: "2019-08-24T12:32:35.468Z"
 template: "post"
 draft: false
 slug: "/posts/model-in-blender/"

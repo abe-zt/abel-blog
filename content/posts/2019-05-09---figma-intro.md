@@ -1,6 +1,6 @@
 ---
 title: "UX/UI design with Figma"
-date: "2019-08-30T21:22:12.222Z"
+date: "2019-09-05T21:22:12.222Z"
 template: "post"
 draft: false
 slug: "/posts/figma-intro/"
@@ -21,11 +21,11 @@ The modal redesign roadmap was somewhat as follows: construct wireframes, constr
 
 After I worked through Figma's tutorials, I started building the wireframes. I had to keep in mind that as wireframes, my initial designs were not meant to include much styling.  Thankfully, <a href="http://willdossantos.com/">Will dos Santos</a>, illustrator and designer at Planning Center, helped keep me on course.
 
-<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FOjHeFzWv3oXRsCJhl8o4Xr7U%2Fregistrations-modal-wireframes%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FsmW1A2oBemVq3s6GjN0y4v%2Fregistrations-modal-wireframes%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 Once the wireframes were complete, I began to flesh out the comps - being mindful of my use of colors.
 
-<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FOjHeFzWv3oXRsCJhl8o4Xr7U%2Fregistrations-modal-wireframes%3Fnode-id%3D65%253A0" allowfullscreen></iframe>
+<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FsmW1A2oBemVq3s6GjN0y4v%2Fregistrations-modal-wireframes%3Fnode-id%3D0%253A979" allowfullscreen></iframe>
 
 After the final designs were approved, it was time to implement.
 

@@ -15,7 +15,7 @@ description: "Adding subtle animations to an existing SVG image using CSS"
 socialImage: ""
 ---
 
-My first task at <a href="https://planning.center">Planning Center</a> was issued by <a href="http://willdossantos.com/">Will Dos Santos</a>, designer and illustrator extrordinaire. The task was to add _subtle_ animations to the home page's existing static image. 
+My first task at <a href="https://planning.center">Planning Center</a> was issued by <a href="http://willdossantos.com/">Will Dos Santos</a>, Planing center's designer and illustrator extrordinaire. The task was to add _subtle_ animations to the home page's existing static image. 
 
 
 <iframe height="500" style="display: flex; width:100%" scrolling="yes" title="Hero Image 2.0" src="//codepen.io/abe-zt/embed/preview/ydbvvJ/?height=415&theme-id=0&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
