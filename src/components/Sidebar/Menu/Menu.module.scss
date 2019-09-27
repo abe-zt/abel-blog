@@ -2,7 +2,8 @@
 @import '../../../assets/scss/mixins';
 
 .menu {
-  @include margin-bottom(1);
+  @include margin-bottom(0);
+  // margin-top: 72px;
 
   &__list {
     list-style: none;
@@ -15,7 +16,7 @@
 
       &-link {
         font-size: $typographic-base-font-size;
-        color: $typographic-base-font-color;
+        color: $color-primary;
         font-weight: normal;
         border: 0;
 
@@ -26,8 +27,8 @@
         }
 
         &--active {
-          color: $color-base;
-          border-bottom: 1px solid $color-base;
+          color: $color-primary;
+          border-bottom: 1px solid $color-primary;
         }
 
       }
@@ -37,3 +38,7 @@
   }
 
 }
+
+// @include breakpoint-sm {
+//   margin-top: 0px;
+// }

@@ -5,11 +5,13 @@
   &__photo {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
-    display: inline-block;
-    margin-bottom: 0;
+    //display: inline-block;
+    //margin-bottom: 0;
     border-radius: 50%;
     background-clip: padding-box;
     border: 2px solid $color-white;
+    float: left;
+    margin: 0px 20px 20px 0px;
   }
 
   &__title {
@@ -34,7 +36,20 @@
     color: $color-gray;
     //width: 200px;
     @include line-height(1);
-    @include margin-bottom(1)
+    @include margin-bottom(1.04)
   }
 
+}
+
+@include breakpoint-sm {
+  .author {
+    &__photo {
+      display: block;
+      float: none;
+      margin: 0px;
+    }
+    &__subtitle {
+      @include margin-bottom(1)
+    }
+  }
 }

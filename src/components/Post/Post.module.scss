@@ -15,9 +15,11 @@
   }
 
   &__home-button-wrapper {
-    display: flex;
-    max-width: 50rem;
+    //display: flex;
+    max-width: $layout-post-width;
     margin: 0px auto;
+    padding: 0px 15px;
+
   }
 
   &__home-button {
@@ -33,9 +35,10 @@
     border-radius: $button-border-radius;
     font-size: $typographic-base-font-size;
     font-weight: normal;
-    //margin-left: auto;
-    //margin-right: auto;
+    //margin: 0 auto;
     @include margin-top(1);
+  
+    
 
     &:hover,
     &:focus {
@@ -57,13 +60,14 @@
       padding: 0;
     }
 
-    &__home-button {
+    &__home-button-wrapper {
       //position: fixed;
-      margin: 16px 0px;
-      max-width: auto;
+      //margin: 16px;
+      //max-width: auto;
       //margin: 0;
       //top: 30px;
       //left: 30px
+      padding: 0px;
     }
 
   }
