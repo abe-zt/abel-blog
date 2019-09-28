@@ -1,0 +1,18 @@
+@import '../../../assets/scss/variables';
+@import '../../../assets/scss/mixins';
+
+.resume {
+  @include margin-bottom(1);
+}
+
+.download-link,
+.view-link {
+  margin-left: 10px;
+  color: $color-primary;
+
+  &:hover,
+  &:focus {
+    border-bottom: 1px solid $color-primary;
+  }
+
+}

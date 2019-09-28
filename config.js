@@ -13,17 +13,13 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Blogs',
+      label: 'Blog Posts',
       path: '/'
     },
     {
       label: 'About',
       path: '/pages/about'
     },
-    {
-      // label: 'Contact me',
-      // path: '/pages/contacts'
-    }
   ],
   author: {
     name: 'Abel Zatarain',
