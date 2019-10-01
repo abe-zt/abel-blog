@@ -1,7 +1,7 @@
 // @flow strict
 import React from 'react';
 import styles from './Resume.module.scss';
-import downloadFile from '../../../../static/Zatarain_Resume.pdf';
+import downloadFile from '../../../../static/Zatarain-Resume.pdf';
 
 const Resume = () => (
   <div className={styles['resume']}> My Resume:
