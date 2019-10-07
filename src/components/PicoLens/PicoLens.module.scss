@@ -1,0 +1,104 @@
+// pico-lens.js image styling
+// ================================================== 
+.pico-lens {
+  height: 250px;
+  display: block;
+  margin: 1rem;
+  //margin-left: auto;
+  //margin-right: auto;
+}
+  
+// pico-lens animations
+// ==================================================
+
+.pico-lens__spyglass-glare {
+  animation: glare-animation 3s ease-in-out 1s infinite alternate;
+  transform-origin: top left ;
+}
+
+@keyframes glare-animation {
+  0% { transform:  translate(0px, 0px);
+  }
+  25% { transform:  translate(0px, 0px);
+  }
+  50% { transform: translate(-30px, 40px) ;
+  }
+  100% { transform: translate(-30px, 40px) ;
+  }
+}
+
+.pico-lens__spyglass-1 {
+  animation: spyglass-1-animation 3s ease-in-out 1s infinite alternate;
+}
+
+@keyframes spyglass-1-animation {
+    0% {transform: translate(0px, 0px); 
+    }
+    25% {transform: translate(0px, 0px); 
+    }
+    50% {transform: matrix(1, 0, 0, 1, -20, 0); 
+    }
+    100% {transform: matrix(1, 0, 0, 1, -20, 0); 
+    }
+}
+
+.pico-lens__spyglass-2 {
+  animation: spyglass-2-animation 3s ease-in-out 1s infinite alternate;
+}
+
+@keyframes spyglass-2-animation {
+    0% {transform: translate(0px, 0px); 
+    }
+    25% {transform: translate(0px, 0px); 
+    }
+    50% {transform: matrix(1, 0, 0, 1, -6, 0); 
+    }
+    100% {transform: matrix(1, 0, 0, 1, -6, 0); 
+    }
+}
+
+.pico-lens__spyglass-3 {
+  animation: spyglass-3-animation 3s ease-in-out 1s infinite alternate;
+}
+
+@keyframes spyglass-3-animation {
+    0% {transform: translate(0px, 0px); 
+    }
+    25% {transform: translate(0px, 0px); 
+    }
+    50% {transform: matrix(1, 0, 0, 1, 2, 0); 
+    }
+    100% {transform: matrix(1, 0, 0, 1, 2, 0); 
+    }
+}
+
+.pico-lens__left-arm {
+  animation: pico-left-arm-animation 3s ease-in-out 1s infinite alternate;
+}
+
+@keyframes pico-left-arm-animation {
+    0% {transform: translate(0px, 0px); 
+    }
+    25% {transform: translate(0px, 0px); 
+    }
+    50% {transform: matrix(.95, -.2, .2, .95, -37, 47);
+    }
+    100% {transform: matrix(.95, -.2, .2, .95, -37, 47); 
+      
+    }
+}
+
+.pico-lens__right-arm {
+  animation: pico-right-arm-animation 3s ease-in-out 1s infinite alternate;
+}
+
+@keyframes pico-right-arm-animation {
+    0% {transform: translate(0px, 0px); 
+    }
+    25% {transform: translate(0px, 0px); 
+    }
+    50% {transform: matrix(1, 0, 0, 1, 2, 0);
+    }
+    100% {transform: matrix(1, 0, 0, 1, 2, 0); 
+    }
+}

@@ -7,6 +7,7 @@ import Menu from './Menu';
 import Resume from './Resume';
 import styles from './Sidebar.module.scss';
 import { useSiteMetadata } from '../../hooks';
+import PicoLens from '../PicoLens';
 
 type Props = {
   isIndex?: boolean,
@@ -21,6 +22,7 @@ const Sidebar = ({ isIndex }: Props) => {
         <Author author={author} isIndex={isIndex} />
         <Menu menu={menu} />
         <Contacts contacts={author.contacts} />
+        <PicoLens/>
         <Resume/>
         <Copyright copyright={copyright} />
       </div>
