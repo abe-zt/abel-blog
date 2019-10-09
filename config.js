@@ -32,6 +32,7 @@ module.exports = {
       // telegram: '#',
       twitter: 'abe_zt',
       github: 'abe-zt',
+      bitbucket: 'Zatar002',
       // rss: '',
       // vkontakte: '',
       linkedin: 'abel-zatarain-b3a570182/',
